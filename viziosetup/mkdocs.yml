@@ -1,4 +1,6 @@
 site_name: Vizio Setup Guide
 site_url: https://help-guide.github.io/viziosetup/
-docs_dir: docs
-site_dir: site
+use_directory_urls: false
+
+theme:
+  name: material
